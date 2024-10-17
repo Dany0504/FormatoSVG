@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="391" preserveAspectRatio="xMidYMid meet" version="1.1" width="391" zoomAndPan="magnify">
+            
+        
+    <rect height="15" width="20" x="50" y="20"/>
+            
+        
+    <rect height="480" width="640" x="80" y="35"/>
+            
+    <circle cx="150" cy="150" fill="red" r="60" stroke="black" stroke-width="2"/>
+            
+    <circle cx="150" cy="150" fill="red" r="50" stroke="red" stroke-width="2"/>
+            
+    <circle cx="150" cy="150" fill="blue" r="40" stroke="blue" stroke-width="2"/>
+            
+    <circle cx="150" cy="150" fill="green" r="30" stroke="green" stroke-width="2"/>
+            
+    <circle cx="150" cy="150" fill="white" r="20" stroke="white" stroke-width="2"/>
+    
+    <line stroke="" stroke-width="1" x1="50" x2="200" y1="20" y2="20"/>
+    <line stroke="" stroke-width="1" x1="200" x2="200" y1="20" y2="170"/>
+    <line stroke="" stroke-width="1" x1="200" x2="50" y1="170" y2="170"/>
+    <line stroke="" stroke-width="1" x1="50" x2="50" y1="170" y2="20"/>
+    <line stroke="" stroke-width="1" x1="80" x2="115" y1="35" y2="35"/>
+    <line stroke="" stroke-width="1" x1="115" x2="115" y1="35" y2="46"/>
+    <line stroke="" stroke-width="1" x1="115" x2="80" y1="46" y2="46"/>
+    <line stroke="" stroke-width="1" x1="80" x2="80" y1="46" y2="35"/>
+</svg>
